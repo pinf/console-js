@@ -1,3 +1,33 @@
 {
-    "name": "console-js"
+    "uid": "https://github.com/pinf/console-js/",
+    "name": "console-js",
+    "main": "lib/console.js",
+    "engine": [
+        "node"
+    ],
+    "directories": {
+        "lib": "./lib"
+    },
+    "scripts": {
+        "test": {
+            "id": "github.com/pinf/test-js/"
+        }
+    },
+    "mappings": {
+        "pinf": {
+            "id": "pinf.org/loader"
+        },
+        "nodejs": {
+            "id": "nodejs.org"
+        },
+        "insight": {
+            "id": "github.com/pinf/insight-js/"
+        },
+        "wildfire": {
+            "id": "github.com/pinf/wildfire-js/"
+        },
+        "modules": {
+            "id": "github.com/pinf/modules-js/"
+        }
+    }
 }
