@@ -15,10 +15,10 @@
     },
     "mappings": {
         "pinf": {
-            "id": "pinf.org/loader"
+            "id": "pinf.org/loader/"
         },
         "nodejs": {
-            "id": "nodejs.org"
+            "id": "nodejs.org/"
         },
         "insight": {
             "id": "github.com/pinf/insight-js/"
